@@ -13,8 +13,8 @@ const logo = LogoRodri;
   </div>
   <div class="flex-none">
     <ul class="menu menu-horizontal px-1 text-black">
-      <li><a href="/Mistrabajos">Mis trabajos</a></li>
-      <li><a href="/Estilos">Estilos</a></li>
+      <li><a href="/Mistrabajos.html">Mis trabajos</a></li>
+      <li><a href="/Estilos.html">Estilos</a></li>
     </ul>
   </div>
     </div>
