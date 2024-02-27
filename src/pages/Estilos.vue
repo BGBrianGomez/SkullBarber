@@ -40,12 +40,10 @@ const navigateCarousel = (direction) => {
   const carouselItem = document.getElementById(toShow.value.toString());
   if (carouselItem) {
     carouselItem.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    return true;
   }
 };
 
 onMounted(() => {
   navigateCarousel(toShow.value);
-  return true;
 });
 </script>
